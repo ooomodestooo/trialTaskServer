@@ -1,0 +1,4 @@
+com\task\project\controller\GreetingController.class
+com\task\project\domain\User.class
+com\task\project\repository\UserRepository.class
+com\task\project\TaskApplication.class
